@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">library</string>
+    <string name="common_basic_get_permission">"权限申请"</string>
+    <string name="common_basic_quit">退出</string>
+    <string name="common_basic_settings">设置</string>
+    <string name="common_basic_permission_tip_imei_1">"我们需要获取设备的IMEI用于设备信息认证，保证账号登录的安全性。" </string>
+    <string name="common_basic_permission_set_app">"请在设置-应用-" </string>
+    <string name="common_basic_permission_tip_storage_2">",以正常使用"</string>
+    <string name="common_basic_permission_tip_location_1">"因WiFi和蓝牙扫描需要获取模糊定位权限。"</string>
+    <string name="common_basic_permission_tip_imei_2">"不会拨打其他号码或终止通话。"</string>
+    <string name="common_basic_permission_tip_imei_3">"-权限中开启电话权限，以正常登录"</string>
+    <string name="common_basic_permission_tip_storage_1">"-权限中开启存储空间权限"</string>
+    <string name="common_basic_permission_tip_storage_3">"功能"</string>
+    <string name="common_basic_permission_tip_location_2">"-权限中开启位置信息权限，以正常使用WiFi或蓝牙的添加设备功能"</string>
+    <string name="common_basic_permission_tip_camera">"-权限中开启相机权限，以正常使用相机功能"</string>
+    <string name="common_basic_permission_tip_other">"-权限中开启对应权限，以正常使用相关功能"</string>
+    <string name="common_basic_permission_tip_imei_4">"功能"</string>
+</resources>
